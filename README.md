@@ -22,6 +22,7 @@ Atuar como QA Analyst / Analista de Testes, contribuindo com:
 # 📚 Estudos e Certificações
 
 * 🎯 CTFL 4.0 (em preparação)
+* 🎯 Javascript / Node.js - Estudando para Automação de Testes
 * ✅ ITIL Foundation
 * ✅ Cobit Foundation
 * ✅ Auditor Interno ISO 9001:2015
