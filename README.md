@@ -1,17 +1,14 @@
 ## Olá, eu sou Pablo Soares Lopes
----
 
 Profissional com mais de 14 anos de experiência em Governança de TI, Gestão de Configuração, Gestão de Ativos e Qualidade de Processos, atuando em empresas de grande porte como IBM, Bradesco Seguros e Prudential.
 
 Atualmente estou em transição estratégica para a área de Quality Assurance (QA) e Testes de Software, unindo minha experiência em qualidade, auditoria, rastreabilidade e melhoria contínua aos estudos em testes manuais, lógica de programação e automação de testes.
 
 ## Objetivo Profissional
----
 
 Atuar como QA Analyst / Analista de Testes, contribuindo com:
 
 Atuar como Analista de Qualidade de Software (QA), contribuindo para a entrega de produtos confiáveis por meio do planejamento, execução e automação de testes, validação de requisitos, identificação de defeitos e melhoria contínua dos processos de qualidade.
-
 
 ![ISTQB CTFL](https://img.shields.io/badge/ISTQB%20CTFL-Certificação-blueviolet)
 ![QA](https://img.shields.io/badge/QA-Qualidade%20de%20Software-blue)
@@ -26,9 +23,7 @@ Atuar como Analista de Qualidade de Software (QA), contribuindo para a entrega d
 ![Python](https://img.shields.io/badge/Python-CRUD-blue)
 ![ServiceNow](https://img.shields.io/badge/ServiceNow-Gestão%20de%20Mudanças-green)
 
-
 ## Estudos e Certificações
----
 
 * ✅ CTFL 4.0 
 * ✅ Javascript para QA / Node.js 
@@ -41,7 +36,6 @@ Atuar como Analista de Qualidade de Software (QA), contribuindo para a entrega d
 
 ## Tecnologias e Ferramentas
 ## QA & Processos
----
 
 * QA Manual
 * Testes de Software
@@ -54,7 +48,7 @@ Atuar como Analista de Qualidade de Software (QA), contribuindo para a entrega d
 * ServiceNow
 
 ## Desenvolvimento & Automação
----
+
 
 * JavaScript
 * Python
@@ -63,7 +57,7 @@ Atuar como Analista de Qualidade de Software (QA), contribuindo para a entrega d
 * Git & GitHub
 
 ## Dados & Governança
----
+
 
 * Power BI
 * Excel Avançado
@@ -71,7 +65,7 @@ Atuar como Analista de Qualidade de Software (QA), contribuindo para a entrega d
 * IBM Maximo
 
 ## Projetos em Desenvolvimento
----
+
 ## QA Lab Project - E-commerce SauceDemo
 
 Projeto prático de Quality Assurance focado em testes manuais e automação E2E (End-to-End) utilizando a aplicação web SauceDemo.
@@ -87,13 +81,14 @@ Demonstrar a criação, execução e documentação profissional de Casos de Tes
 - **Gestão de Defeitos:** Simulação de fluxos de rastreabilidade e relatórios de defeitos claros e compreensíveis.
 - **Governança de Código:** Organização atômica do Testware e versionamento de código utilizando Git e GitHub.
 
-## Estrutura do Projeto - Link: (https://github.com/mpablosl/qa-portfolio-saucedemo)
+## Estrutura do Projeto
 - `/docs/test-cases/`: Contém os Casos de Teste Manuais estruturados de forma atômica e rastreável (simulando tickets de ferramentas de mercado como Jira/Zephyr)
 - `/docs/bugs-reports`: Contém os relatórios de defeitos
 - `/cypress/e2e/`: Contém as Suítes de Teste automatizadas com Cypress.
 
+Link do Repositório: [qa-portfolio-saucedemo](https://github.com/mpablosl/qa-portfolio-saucedemo)
+
 ## Experiência Corporativa
----
 
 Ao longo da carreira, atuei com:
 
@@ -106,10 +101,7 @@ Ao longo da carreira, atuei com:
 * Monitoramento de KPIs
 * Rastreabilidade de informações críticas
 
----
-
 ## Vamos Conectar
----
 
 ## LinkedIn
 
@@ -123,7 +115,6 @@ Ao longo da carreira, atuei com:
 
 [mpablosl@gmail.com](mailto:mpablosl@gmail.com)
 
----
 
 # ⭐ GitHub Stats
 
